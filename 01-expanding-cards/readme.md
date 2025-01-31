@@ -51,7 +51,3 @@ To customize the images and text:
 ## Contributing
 
 Contributions are welcome! Please fork the repositoru and create a pull request with your changes
-
-## License
-
-This project is licensed under the Apache 2.0. See the <u>LICENSE</u> file for details.
